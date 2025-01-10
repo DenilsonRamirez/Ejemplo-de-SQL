@@ -29,6 +29,7 @@ El sistema incluye consultas para:
 1. Crear la base de datos:
 ```sql
 CREATE DATABASE RegistroVacunacion;
+```
 Ejecutar los scripts en el siguiente orden:
 - `schema.sql`
 - `seed-data.sql`
