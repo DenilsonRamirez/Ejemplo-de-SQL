@@ -30,11 +30,11 @@ El sistema incluye consultas para:
 ```sql
 CREATE DATABASE RegistroVacunacion;
 ```
-Ejecutar los scripts en el siguiente orden:
+2. Ejecutar los scripts en el siguiente orden:
 - `schema.sql`
 - `seed-data.sql`
 
 
 ## Tecnologías Utilizadas
--`MySQL`
+- `MySQL`
 
