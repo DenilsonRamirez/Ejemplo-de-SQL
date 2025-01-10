@@ -16,9 +16,6 @@ Base de datos relacional MySQL diseñada para gestionar el registro de vacunaci�
 - `Vacunas`: Catálogo de vacunas disponibles
 - `Vacunacion`: Registro histórico de vacunas aplicadas
 
-### Diagrama ER
-[Puedes agregar aquí un diagrama de la base de datos]
-
 ## Consultas de Ejemplo
 
 El sistema incluye consultas para:
